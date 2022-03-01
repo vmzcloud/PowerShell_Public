@@ -1,4 +1,4 @@
-# Windows_CPU_Mem_Disk_Powershell
+# CPU / Memory / Disk Performace Stat (Daily & Monthly)
 
 Those scripts are for generate CPU usage, Memory usage and Disk usage csv.
 
